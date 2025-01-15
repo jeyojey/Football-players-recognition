@@ -12,7 +12,9 @@ The model was trained on GPU in Google Colaboratory.
 
 # Demo
 Original video: `input_videos/veo_7.mp4`
+
 Video obtained after YOLO recognition without finetuning: `runs/detect/predict1/veo_7.mp4`
+
 After pruning video: `runs/detect/predict3/veo_7.mp4`
 
 
@@ -20,4 +22,5 @@ After pruning video: `runs/detect/predict3/veo_7.mp4`
 
 # Links
 YOLO model used: https://docs.ultralytics.com/models/yolov5/
+
 Dataset used: https://universe.roboflow.com/roboflow-jvuqo/football-players-detection-3zvbc
